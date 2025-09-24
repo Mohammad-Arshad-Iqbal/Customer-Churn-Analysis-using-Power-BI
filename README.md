@@ -43,7 +43,7 @@ The company wants to:
 ---
 ## 📸 Dashboard Screenshots  
 
-(https://github.com/Mohammad-Arshad-Iqbal/Customer-Churn-Analysis-using-Power-BI
+![Churn by State](screenshot/Screenshot 2025-09-25 043557.png)  
 
 
 ### 1. Churn by State  
