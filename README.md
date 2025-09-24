@@ -43,17 +43,32 @@ The company wants to:
 ---
 ## 📸 Dashboard Screenshots  
 
-![Churn by State](screenshot/Screenshot 2025-09-25 043557.png)  
+![Churn by State](Screenshots/11.png)  
 
+## 📸 Report Screenshots 
 
-### 1. Churn by State  
-![Churn by State](images/churn_by_state.png)  
+### 1. Churn Rate 
+![](Screenshots/1.png)  
 
-### 2. Churn by Contract Category  
-![Churn by Contract](images/churn_by_contract.png)  
+### 2. Main Reason For Churn 
+![](Screenshots/2.png)  
+### 3. Churn Rate by State 
+![](Screenshots/3.png)  
+### 4.  Churn Rate By 3 Age Categories
+![](Screenshots/4.png)  
+### 5. Churn Rate By Age Bins
+![](Screenshots/5.png)  
+### 6. Inspecting Groups
+![](Screenshots/6.png)  
+### 7. Multiple Feild
+![](Screenshots/7.png) 
+### 8. Unlimited Plan 
+![](Screenshots/8.png)  
+### 9. Internation Plan 
+![](Screenshots/9.png)  
+### 10. Contract Type
+![](Screenshots/10.png)  
 
-### 3. Churn Reasons  
-![Churn Reasons](images/churn_reasons.png)  
 
 ---
 
