@@ -43,8 +43,8 @@ The company wants to:
 ---
 ## 📸 Dashboard Screenshots  
 
-> Place your Power BI dashboard screenshots here.  
-> Save them in a folder named `images/` and link them like below:  
+(https://github.com/Mohammad-Arshad-Iqbal/Customer-Churn-Analysis-using-Power-BI
+
 
 ### 1. Churn by State  
 ![Churn by State](images/churn_by_state.png)  
